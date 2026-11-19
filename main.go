@@ -41,4 +41,3 @@ func main() {
 	fmt.Println("Area:", circle.area())
 	fmt.Println("Perimeter:", circle.perimeter())
 }
-
