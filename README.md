@@ -1,6 +1,7 @@
-... methods> go run main.go
+Результат:
+```... methods> go run main.go
 price1 = 300 руб. 30 коп.
 price2 = 20 руб. 20 коп.
 totalPrice = 320 руб. 50 коп.
 Area: 314.1592653589793
-Perimeter: 62.83185307179586
+Perimeter: 62.83185307179586 ```
